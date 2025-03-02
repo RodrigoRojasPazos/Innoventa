@@ -1,6 +1,5 @@
-# Crear el archivo README.md con el contenido actualizado
 
-contenido = """# InnoVenta POS System
+# InnoVenta POS System
 
 Este proyecto es un sistema de punto de venta (**POS**) desarrollado con **Node.js, Express.js, MySQL y React.js**. Está diseñado para gestionar la venta de productos electrónicos, administración de inventario y control de usuarios.
 
