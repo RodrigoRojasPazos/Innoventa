@@ -108,5 +108,3 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo `LICENSE` para
 
 ---
 
-🚀 **¡Listo para usar!** Ahora puedes personalizar y extender este sistema de punto de venta según tus necesidades. 😊
-
